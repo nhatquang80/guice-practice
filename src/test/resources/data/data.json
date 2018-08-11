@@ -1,0 +1,112 @@
+{
+  "start_date": "2017-04-01T00:00:00Z",
+  "end_date": "2017-06-30T23:59:59Z",
+  "data": [{
+    "_id": {
+      "$oid": "5979aff3fc13ae110500017c"
+    },
+    "client_identifier": "8c081009584a4402bfd91759db33cb9bc1eefaa1c97b152752072fa0f607bffc",
+    "btc_address": "18AvzGhtBFnauZumwNx75SYjARJL4m5eMr",
+    "country_code": "CN",
+    "transactions": [{
+        "item": "Lorazepam",
+        "payment": 5.72708821,
+        "date": "2017-04-09T22:08:48Z"
+      },
+      {
+        "item": "Amoxicillin",
+        "payment": 2.53099585,
+        "date": "2017-04-11T14:24:11Z"
+      },
+      {
+        "item": "Presidents Choice",
+        "payment": 3.39884118,
+        "date": "2017-04-22T08:35:11Z"
+      },
+      {
+        "item": "Allergen",
+        "payment": 2.9001487,
+        "date": "2017-06-27T18:19:40Z"
+      },
+      {
+        "item": "Levothyroxine sodium",
+        "payment": 5.63435725,
+        "date": "2017-05-31T09:44:28Z"
+      },
+      {
+        "item": "bethanechol chloride",
+        "payment": 4.32153224,
+        "date": "2017-04-19T10:33:00Z"
+      }]
+  },
+    {
+      "_id": {
+        "$oid": "5979aff3fc13ae110500017d"
+      },
+      "client_identifier": "df52bcfaa573865c56b2d660fd7e99b5ff5584949742231a7a6df3c506dbd8b1",
+      "btc_address": "1Bfci5qakmZoE9hjKggyEDmVhPGgpvTmZJ",
+      "country_code": "CN"
+    },
+    {
+      "_id": {
+        "$oid": "5979aff3fc13ae110500017e"
+      },
+      "client_identifier": "77db323bd9bebb6c576e9d2c77b1abb7e1caf8f1ac81899d8d23e15d1d386dc8",
+      "btc_address": "1AFnZASqjwga5AmmqAfh1Q1UEPRmRgyoWU",
+      "country_code": "CI",
+      "avatar": "https://robohash.org/nonnostrumbeatae.bmp?size=150x150&set=set1",
+      "transactions": [{
+        "item": "Levothyroxine Sodium",
+        "payment": 0.26576058,
+        "date": "2017-05-28T21:32:15Z"
+      },
+        {
+          "item": "CARROT",
+          "payment": 1.3430519,
+          "date": "2017-06-23T19:24:25Z"
+        }]
+    },
+    {
+      "_id": {
+        "$oid": "5979aff3fc13ae110500017f"
+      },
+      "client_identifier": "9fb7e7b96af85dab0651fc09f606b8bb4f8b10452efc6fa861e08ff3e30d10b3",
+      "btc_address": "1GqbLfaxQYhXH3K5RBLDXiWtBXBJvXW58d",
+      "country_code": "PH",
+      "transactions": []
+    },
+    {
+      "_id": {
+        "$oid": "5979aff3fc13ae1105000180"
+      },
+      "client_identifier": "aedd37b569dd7a5202828cd20f3aff5b8222222fcf1c62578bae74a6e8bceb48",
+      "btc_address": "13s9FZF8NB1YS56MGRKjhAKTLyWmkrUk4S",
+      "country_code": "HT",
+      "transactions": [{
+        "item": "Klonopin",
+        "payment": 6.91934807,
+        "date": "2017-04-16T14:58:44Z"
+      }]
+    },
+    {
+      "_id": {
+        "$oid": "5979aff3fc13ae1105000181"
+      },
+      "client_identifier": "caf942002bda242505a379e31d4bafdabab0978a0df1a0acc8d635c6c53db9f2",
+      "btc_address": "19R86BFmq2c5ZnLfBFTeWsNFxyU1iiawmZ",
+      "country_code": "US"
+    },
+    {
+      "_id": {
+        "$oid": "5979affafc13ae1105000563"
+      },
+      "client_identifier": "5c9227778f322e80e1028ed61c7c6590f7f36d1f594c6e502b0cc01cb290ba40",
+      "btc_address": "15daRPsTg68cHLAhAPyGWo1mo5dxH2tV89",
+      "country_code": "PL",
+      "transactions": [{
+        "item": "WHOLE WHEAT FOOD",
+        "payment": 2.28133757,
+        "date": "2017-06-28T18:59:50Z"
+      }]
+    }]
+}
